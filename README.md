@@ -46,3 +46,5 @@ O checkout é uma simulação para demonstração. O projeto não possui back-en
 ## Aprendizado
 
 Este projeto faz parte do meu processo de aprendizado em desenvolvimento front-end. Durante a construção da Nexo Store, pratiquei conceitos de React e continuo aprimorando minhas habilidades.
+
+Site: https://nexostore-pi.vercel.app/
